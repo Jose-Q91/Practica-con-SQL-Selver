@@ -1,2 +1,2 @@
 # Practica-con-SQL-Server
-Practica con SQL Selver en educación IT
+Practica con SQL Server en educación IT
